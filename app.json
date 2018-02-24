@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "The Hand",
+    "privacy" : "unlisted",
+    "icon" : "./assests/icon.png",
+    "sdkVersion": "25.0.0",
+    "description": "Supplementary technology for a myoelectric prosthetic arm.",
+    "splash" : {
+      "image" : "./assests/icon.png",
+      "backgroundColor": "#ffffff",
+      "resizeMode" : "contain"
+    }
+  }
+}
