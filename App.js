@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, View } from 'react-native';
-import Buttons from './src/components/buttons';
+import Buttons from './src/buttons/buttons';
 import Styles from './css'
 
 export default class App extends React.Component {
