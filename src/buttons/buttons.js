@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import Power from './buttons/power';
-import Hold from './buttons/hold';
-import Mouse from './buttons/mouse';
+import Power from './power';
+import Hold from './hold';
+import Mouse from './mouse';
 
 class Buttons extends Component {
     render() {

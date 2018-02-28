@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { TouchableNativeFeedback, Image, View, Text } from 'react-native';
-import Styles from '../../../css'
+import Styles from '../../css'
 
-const mouseStart = require('../../../assests/mouse.png');
-const mouseStop = require('../../../assests/mouse-green.png');
+const mouseStart = require('../../assests/mouse.png');
+const mouseStop = require('../../assests/mouse-green.png');
 
 class Mouse extends Component {
     constructor(props) {

@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { View, Image, Text, TouchableNativeFeedback} from 'react-native';
-import Styles from '../../../css'
+import Styles from '../../css'
 
-const holdStart = require('../../../assests/hold.png');
-const holdStop = require('../../../assests/hold-green.png');
+const holdStart = require('../../assests/hold.png');
+const holdStop = require('../../assests/hold-green.png');
 
 class Hold extends Component{
     constructor(props) {

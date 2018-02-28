@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { TouchableNativeFeedback, Image, View, Text, Alert } from 'react-native';
-import Styles from '../../../css'
+import Styles from '../../css'
 
-const onIcon = require('../../../assests/power-off.png');
-const offIcon = require('../../../assests/power-on.png');
+const onIcon = require('../../assests/power-off.png');
+const offIcon = require('../../assests/power-on.png');
 
 class Power extends Component {
     constructor(props) {
